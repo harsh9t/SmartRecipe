@@ -1,4 +1,4 @@
-''' @author: harsh9t'''
+''' @scrapper file'''
 
 import scraperwiki
 import lxml.html
